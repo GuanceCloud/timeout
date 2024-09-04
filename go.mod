@@ -1,9 +1,9 @@
 module github.com/gin-contrib/timeout
 
-go 1.20
+go 1.19
 
 require (
-	github.com/gin-gonic/gin v1.10.0
+	github.com/gin-gonic/gin v1.9.1
 	github.com/stretchr/testify v1.9.0
 )
 
